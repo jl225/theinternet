@@ -1,0 +1,18 @@
+.navbar a{
+    font-family: 'Comfortaa', sans-serif, cursive;font-size: 19px;
+}
+.nav-link span{
+    font-family: 'Comfortaa', sans-serif, serif;font-size: 19px;color: #ffffff;
+}
+.nav-link i{
+    font-family: 'Comfortaa', sans-serif, serif;font-size: 19px;color: #ffffff;
+}
+.nav-link a{
+    font-family: 'Comfortaa', sans-serif, serif;font-size: 19px;color: #ffffff;
+}
+.navbar {
+    max-height: 20px;
+}
+.dropdown-menu a{
+    font-family: 'Comfortaa', sans-serif, serif;font-size: 14px;color: #ffffff;
+}
