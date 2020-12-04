@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38188c23-c829-41fa-b422-bebc2255a78e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/swimback-white.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/style.js" afterDir="false" />
+    <list default="true" id="38188c23-c829-41fa-b422-bebc2255a78e" name="Default Changelist" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/gettyimages-935028794-2048x2048.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/gettyimages-935028794-2048x2048.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,12 +49,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607040985892</updated>
-      <workItem from="1607040986986" duration="13398000" />
+      <workItem from="1607040986986" duration="14052000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1607075361014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607075361014</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="183" y="57" key="#Deployment" timestamp="1607075213862">
@@ -82,5 +89,9 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="558" y="233" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1607066570937" />
+    <state x="453" y="174" key="Vcs.Push.Dialog.v2" timestamp="1607075362985">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="453" y="174" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1607075362985" />
   </component>
 </project>
