@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38188c23-c829-41fa-b422-bebc2255a78e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lAXhCIGUM0KnKkMQFzucyH89TE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/images" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38188c23-c829-41fa-b422-bebc2255a78e" name="Default Changelist" comment="" />
+      <created>1607040985892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607040985892</updated>
+      <workItem from="1607040986986" duration="4441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="183" y="57" key="#Deployment" timestamp="1607063712971">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="183" y="57" key="#Deployment/0.0.1474.864@0.0.1474.864" timestamp="1607063712971" />
+    <state x="167" y="44" key="#SSH_Configurations" timestamp="1607055635377">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="167" y="44" key="#SSH_Configurations/0.0.1474.864@0.0.1474.864" timestamp="1607055635377" />
+    <state x="547" y="160" key="FileChooserDialogImpl" timestamp="1607064573617">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="547" y="160" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1607064573617" />
+  </component>
+</project>
