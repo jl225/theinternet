@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38188c23-c829-41fa-b422-bebc2255a78e" name="Default Changelist" comment="task: final edit 2">
-      <change afterPath="$PROJECT_DIR$/docs/pdf/title.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-    </list>
+    <list default="true" id="38188c23-c829-41fa-b422-bebc2255a78e" name="Default Changelist" comment="task: final edit 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +47,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/pdf" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -76,7 +72,7 @@
       <workItem from="1607427812604" duration="158000" />
       <workItem from="1607436664569" duration="1013000" />
       <workItem from="1607438357114" duration="508000" />
-      <workItem from="1607495504470" duration="1666000" />
+      <workItem from="1607495504470" duration="1994000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1607075361014</created>
@@ -134,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607397631581</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="task: final edit 3">
+      <created>1607500311229</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607500311229</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +164,8 @@
     <MESSAGE value="task: pages edited" />
     <MESSAGE value="task: final edit" />
     <MESSAGE value="task: final edit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: final edit 2" />
+    <MESSAGE value="task: final edit 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: final edit 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="183" y="57" key="#Deployment" timestamp="1607075213862">
