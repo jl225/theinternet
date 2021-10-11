@@ -19,16 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38188c23-c829-41fa-b422-bebc2255a78e" name="Default Changelist" comment="task: google analytics">
+    <list default="true" id="38188c23-c829-41fa-b422-bebc2255a78e" name="Default Changelist" comment="task: edit footer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/icann.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/icann.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/invention.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ipaddress.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ipaddress.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/thoughts.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/thoughts.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +50,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../portfolio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -83,7 +76,9 @@
       <workItem from="1607436664569" duration="1013000" />
       <workItem from="1607438357114" duration="508000" />
       <workItem from="1607495504470" duration="3441000" />
-      <workItem from="1608539880326" duration="368000" />
+      <workItem from="1608539880326" duration="771000" />
+      <workItem from="1608540716302" duration="552000" />
+      <workItem from="1633959754758" duration="1206000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1607075361014</created>
@@ -162,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607501681123</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="task: edit footer">
+      <created>1608540398128</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608540398128</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,39 +194,17 @@
     <MESSAGE value="task: final edit 3" />
     <MESSAGE value="task: readme" />
     <MESSAGE value="task: google analytics" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: google analytics" />
+    <MESSAGE value="task: edit footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: edit footer" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="183" y="57" key="#Deployment" timestamp="1607075213862">
-      <screen x="0" y="0" width="1474" height="864" />
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633960366403">
+      <screen x="0" y="0" width="1457" height="864" />
     </state>
-    <state x="183" y="57" key="#Deployment/0.0.1474.864@0.0.1474.864" timestamp="1607075213862" />
-    <state x="167" y="44" key="#SSH_Configurations" timestamp="1607055635377">
-      <screen x="0" y="0" width="1474" height="864" />
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1457.864@0.0.1457.864" timestamp="1633960366403" />
+    <state x="321" y="165" key="Vcs.Push.Dialog.v2" timestamp="1633960932842">
+      <screen x="0" y="0" width="1457" height="864" />
     </state>
-    <state x="167" y="44" key="#SSH_Configurations/0.0.1474.864@0.0.1474.864" timestamp="1607055635377" />
-    <state x="546" y="160" key="FileChooserDialogImpl" timestamp="1607502164827">
-      <screen x="0" y="0" width="1469" height="864" />
-    </state>
-    <state x="543" y="160" key="FileChooserDialogImpl/0.0.1462.864@0.0.1462.864" timestamp="1607411057117" />
-    <state x="546" y="160" key="FileChooserDialogImpl/0.0.1469.864@0.0.1469.864" timestamp="1607502164827" />
-    <state x="547" y="160" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1607385951619" />
-    <state x="627" y="426" key="Github.ShareDialog" timestamp="1607066564694">
-      <screen x="0" y="0" width="1474" height="864" />
-    </state>
-    <state x="627" y="426" key="Github.ShareDialog/0.0.1474.864@0.0.1474.864" timestamp="1607066564694" />
-    <state x="558" y="233" key="Github.UntrackedFilesDialog" timestamp="1607066570937">
-      <screen x="0" y="0" width="1474" height="864" />
-    </state>
-    <state x="558" y="233" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1607066570937" />
-    <state x="451" y="174" key="Vcs.Push.Dialog.v2" timestamp="1607501682503">
-      <screen x="0" y="0" width="1469" height="864" />
-    </state>
-    <state x="451" y="174" key="Vcs.Push.Dialog.v2/0.0.1469.864@0.0.1469.864" timestamp="1607501682503" />
-    <state x="453" y="174" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1607397634930" />
-    <state x="346" y="264" key="run.anything.popup" timestamp="1607086986981">
-      <screen x="0" y="0" width="1474" height="864" />
-    </state>
-    <state x="346" y="264" key="run.anything.popup/0.0.1474.864@0.0.1474.864" timestamp="1607086986981" />
+    <state x="321" y="165" key="Vcs.Push.Dialog.v2/0.0.1457.864@0.0.1457.864" timestamp="1633960932842" />
   </component>
 </project>
