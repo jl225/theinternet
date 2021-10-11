@@ -79,6 +79,7 @@
       <workItem from="1608539880326" duration="771000" />
       <workItem from="1608540716302" duration="552000" />
       <workItem from="1633959754758" duration="1206000" />
+      <workItem from="1633962230127" duration="898000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1607075361014</created>
@@ -164,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608540398128</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="task: edit footer">
+      <created>1633962314483</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1633962314483</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,13 +206,29 @@
     <option name="LAST_COMMIT_MESSAGE" value="task: edit footer" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633960366403">
+    <state x="321" y="91" key="#Deployment" timestamp="1633963136739">
       <screen x="0" y="0" width="1457" height="864" />
     </state>
-    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1457.864@0.0.1457.864" timestamp="1633960366403" />
-    <state x="321" y="165" key="Vcs.Push.Dialog.v2" timestamp="1633960932842">
+    <state x="321" y="91" key="#Deployment/0.0.1457.864@0.0.1457.864" timestamp="1633963136739" />
+    <state x="305" y="78" key="#SSH_Configurations" timestamp="1633963134668">
       <screen x="0" y="0" width="1457" height="864" />
     </state>
-    <state x="321" y="165" key="Vcs.Push.Dialog.v2/0.0.1457.864@0.0.1457.864" timestamp="1633960932842" />
+    <state x="305" y="78" key="#SSH_Configurations/0.0.1457.864@0.0.1457.864" timestamp="1633963134668" />
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633962860005">
+      <screen x="0" y="0" width="1457" height="864" />
+    </state>
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1457.864@0.0.1457.864" timestamp="1633962860005" />
+    <state x="321" y="165" key="Vcs.Push.Dialog.v2" timestamp="1633963070480">
+      <screen x="0" y="0" width="1457" height="864" />
+    </state>
+    <state x="321" y="165" key="Vcs.Push.Dialog.v2/0.0.1457.864@0.0.1457.864" timestamp="1633963070480" />
+    <state x="600" y="324" key="publish.login" timestamp="1633963017679">
+      <screen x="0" y="0" width="1457" height="864" />
+    </state>
+    <state x="600" y="324" key="publish.login/0.0.1457.864@0.0.1457.864" timestamp="1633963017679" />
+    <state x="391" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1633962487565">
+      <screen x="0" y="0" width="1457" height="864" />
+    </state>
+    <state x="391" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1457.864@0.0.1457.864" timestamp="1633962487565" />
   </component>
 </project>
