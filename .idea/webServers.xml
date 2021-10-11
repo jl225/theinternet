@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="4376ce45-cbd3-4928-97ce-d930e451d654" name="AFS" url="https://web.njit.edu/~jl225">
-        <fileTransfer rootFolder="/afs/cad.njit.edu/u/j/l/jl225/public_html/" accessType="SFTP" host="afs13.njit.edu" port="22" sshConfigId="1f2c68cc-f467-4aa5-b223-256a645e328e" sshConfig="jl225@afs13.njit.edu:22 password">
+      <webServer id="7fbdb1f2-58ab-4453-a738-4d807ad7458d" name="USF" url="http://web.usf.edu/~jl23">
+        <fileTransfer rootFolder="/home/j/jl23" accessType="SFTP" host="shell.cas.usf.edu" port="22" sshConfigId="1f2c68cc-f467-4aa5-b223-256a645e328e" sshConfig="jl23@shell.cas.usf.edu:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="AFS" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="AFS">
+      <paths name="USF">
         <serverdata>
           <mappings>
-            <mapping deploy="theinternet" local="$PROJECT_DIR$" web="/theinternet" />
+            <mapping local="$PROJECT_DIR$" web="/" />
             <mapping local="" />
           </mappings>
         </serverdata>
