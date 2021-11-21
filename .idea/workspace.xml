@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="38188c23-c829-41fa-b422-bebc2255a78e" name="Default Changelist" comment="task: edit footer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,10 @@
       <workItem from="1633959754758" duration="1206000" />
       <workItem from="1633962230127" duration="5839000" />
       <workItem from="1634523484032" duration="7445000" />
-      <workItem from="1634531339683" duration="309000" />
+      <workItem from="1634531339683" duration="1134000" />
+      <workItem from="1636358873085" duration="85000" />
+      <workItem from="1637017074552" duration="5154000" />
+      <workItem from="1637306845150" duration="2237000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1607075361014</created>
@@ -202,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634531284421</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="task: edit footer">
+      <created>1634531863910</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1634531863910</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,11 +266,11 @@
       <screen x="0" y="0" width="1459" height="864" />
     </state>
     <state x="496" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1459.864@0.0.1459.864" timestamp="1634530696025" />
-    <state x="321" y="165" key="Vcs.Push.Dialog.v2" timestamp="1634531290384">
+    <state x="321" y="165" key="Vcs.Push.Dialog.v2" timestamp="1634531869456">
       <screen x="0" y="0" width="1459" height="864" />
     </state>
     <state x="321" y="165" key="Vcs.Push.Dialog.v2/0.0.1457.864@0.0.1457.864" timestamp="1633966321033" />
-    <state x="321" y="165" key="Vcs.Push.Dialog.v2/0.0.1459.864@0.0.1459.864" timestamp="1634531290384" />
+    <state x="321" y="165" key="Vcs.Push.Dialog.v2/0.0.1459.864@0.0.1459.864" timestamp="1634531869456" />
     <state x="600" y="324" key="publish.login" timestamp="1633963423288">
       <screen x="0" y="0" width="1457" height="864" />
     </state>
