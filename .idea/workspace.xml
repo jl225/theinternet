@@ -20,11 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38188c23-c829-41fa-b422-bebc2255a78e" name="Default Changelist" comment="task: edit footer">
-      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-1153396626-2048x2048.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-1265552575-2048x2048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/08513b70190c5206e436745971fd8c8b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/240_F_158663907_y15llMX4MGCujMFvSEPcIZS5F5vW6k1v.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/240_F_230568536_0LYGadLrngYiHN7SH545a95m2ArbZYCQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/240_F_232068818_0BLMiNzrJOayKYy0O6Z8UjKTrmIkocne.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/240_F_366996864_5GhqrxnZrhwsiLGxV1FALhGcoqIZu9kq.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/public.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/public.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +94,7 @@
       <workItem from="1634531339683" duration="1134000" />
       <workItem from="1636358873085" duration="85000" />
       <workItem from="1637017074552" duration="5154000" />
-      <workItem from="1637306845150" duration="11137000" />
+      <workItem from="1637306845150" duration="15230000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1607075361014</created>
@@ -233,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637543180966</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="task: edit footer">
+      <created>1637555479503</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1637555479503</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,12 +297,12 @@
       <screen x="0" y="0" width="1459" height="864" />
     </state>
     <state x="496" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1459.864@0.0.1459.864" timestamp="1634530696025" />
-    <state x="324" y="165" key="Vcs.Push.Dialog.v2" timestamp="1637543183069">
+    <state x="324" y="165" key="Vcs.Push.Dialog.v2" timestamp="1637555482719">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="321" y="165" key="Vcs.Push.Dialog.v2/0.0.1457.864@0.0.1457.864" timestamp="1633966321033" />
     <state x="321" y="165" key="Vcs.Push.Dialog.v2/0.0.1459.864@0.0.1459.864" timestamp="1634531869456" />
-    <state x="324" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1637543183069" />
+    <state x="324" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1637555482719" />
     <state x="600" y="324" key="publish.login" timestamp="1633963423288">
       <screen x="0" y="0" width="1457" height="864" />
     </state>
