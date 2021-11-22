@@ -20,6 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38188c23-c829-41fa-b422-bebc2255a78e" name="Default Changelist" comment="task: edit footer">
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-1253813515-2048x2048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-565878653-2048x2048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-986900214-2048x2048.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -54,6 +57,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amber\WebstormProjects\project3\docs\images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\amber\WebstormProjects\project3\docs\pdf" />
       <recent name="C:\Users\amber\WebstormProjects\project3\docs\images" />
@@ -84,7 +90,7 @@
       <workItem from="1634531339683" duration="1134000" />
       <workItem from="1636358873085" duration="85000" />
       <workItem from="1637017074552" duration="5154000" />
-      <workItem from="1637306845150" duration="2237000" />
+      <workItem from="1637306845150" duration="6712000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1607075361014</created>
@@ -212,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634531863910</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="task: edit footer">
+      <created>1637533671715</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1637533671716</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,11 +279,12 @@
       <screen x="0" y="0" width="1459" height="864" />
     </state>
     <state x="496" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1459.864@0.0.1459.864" timestamp="1634530696025" />
-    <state x="321" y="165" key="Vcs.Push.Dialog.v2" timestamp="1634531869456">
-      <screen x="0" y="0" width="1459" height="864" />
+    <state x="324" y="165" key="Vcs.Push.Dialog.v2" timestamp="1637533676355">
+      <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="321" y="165" key="Vcs.Push.Dialog.v2/0.0.1457.864@0.0.1457.864" timestamp="1633966321033" />
     <state x="321" y="165" key="Vcs.Push.Dialog.v2/0.0.1459.864@0.0.1459.864" timestamp="1634531869456" />
+    <state x="324" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1637533676355" />
     <state x="600" y="324" key="publish.login" timestamp="1633963423288">
       <screen x="0" y="0" width="1457" height="864" />
     </state>
