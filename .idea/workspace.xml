@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38188c23-c829-41fa-b422-bebc2255a78e" name="Default Changelist" comment="task: edit footer">
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-615690820-2048x2048.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/public.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/public.html" afterDir="false" />
@@ -55,11 +56,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\amber\WebstormProjects\project3\docs\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\amber\WebstormProjects\project3\docs\pdf" />
+      <recent name="C:\Users\amber\WebstormProjects\project3\docs\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\amber\WebstormProjects\project3\docs\images" />
     </key>
   </component>
@@ -89,7 +90,8 @@
       <workItem from="1636358873085" duration="85000" />
       <workItem from="1637017074552" duration="5154000" />
       <workItem from="1637306845150" duration="17210000" />
-      <workItem from="1637770438286" duration="2167000" />
+      <workItem from="1637770438286" duration="2260000" />
+      <workItem from="1638133142972" duration="1113000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1607075361014</created>
@@ -252,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637770906193</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="task: edit footer">
+      <created>1637773595615</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1637773595615</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,12 +319,12 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1637770986110" />
-    <state x="324" y="165" key="Vcs.Push.Dialog.v2" timestamp="1637770910270">
+    <state x="324" y="165" key="Vcs.Push.Dialog.v2" timestamp="1637773599651">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="321" y="165" key="Vcs.Push.Dialog.v2/0.0.1457.864@0.0.1457.864" timestamp="1633966321033" />
     <state x="321" y="165" key="Vcs.Push.Dialog.v2/0.0.1459.864@0.0.1459.864" timestamp="1634531869456" />
-    <state x="324" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1637770910270" />
+    <state x="324" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1637773599651" />
     <state x="600" y="324" key="publish.login" timestamp="1633963423288">
       <screen x="0" y="0" width="1457" height="864" />
     </state>
